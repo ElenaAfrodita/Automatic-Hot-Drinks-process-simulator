@@ -3,7 +3,7 @@
 ## What is PROSIM?
 PROSIM is an industrial process simulator for technical training.
 
-![PLC](/images/PLC.png)
+![PLC](/images/PLC.jpg)
 
 ## Functional description:
 
