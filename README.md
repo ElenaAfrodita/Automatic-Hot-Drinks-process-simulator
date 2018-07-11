@@ -22,3 +22,8 @@ To configure the DI / DO module, select the module, specify the author, and then
 Project-> Save.
 
 * We further write the program using the ladder diagrams (vertical lines represent the power source and the horizontal control lines). We go into Project tree and select the name of the PLC configured. From the Bit logic section, we use the necessary instructions to make the process description functional. The drafting of the project is done through Networks.
+
+## Acknowledgments
+
+* Resources: • PROSIM documentation.
+			 • Cristina I. Pop, Eva H. Dulf, Clement Feştilă, Ingineria Reglării Automate 1, îndrumător de laborator
