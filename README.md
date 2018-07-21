@@ -25,5 +25,5 @@ Project-> Save.
 
 ## Acknowledgments
 
-* Resources: • PROSIM documentation.
-			 • Cristina I. Pop, Eva H. Dulf, Clement Feştilă, Ingineria Reglării Automate 1, îndrumător de laborator
+* Resources: * PROSIM documentation.
+	     * Cristina I. Pop, Eva H. Dulf, Clement Feştilă, Ingineria Reglării Automate 1, îndrumător de laborator
